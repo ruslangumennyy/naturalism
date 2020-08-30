@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+}
+
+body{
+	text-align: center;
+	font-family: font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif; 
+		font-size: 20px;
+		line-height: 40px;
+}
+
+
+}
+
+h1, h2{
+	font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+
+body img{
+	border-radius: 300px;
+}
+
+body video{
+	border-radius: 300px;
+}
+
+a{
+	color: red;
+}
+
+a:hover{
+	color: blue;
+}
+
+footer p{
+	padding: 30px;
